@@ -27,7 +27,7 @@ public class BinarySearch {
 		int output=binarySearch(arr, start, length - 1, elements);
 		if(output==-1)
 			System.out.println("Item not Exist");
-		else     //7550198450
+		else     
        System.out.println("Index\t"+output+"\nOutput\t"+arr[output]);
 	}
 
